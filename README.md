@@ -1,5 +1,4 @@
 ﻿# Supermarket Billing System (C++)
-# Supermarket Billing System
 
 ## Description
 A console-based C++ application that manages supermarket billing operations including product selection, billing calculation, and invoice generation.
